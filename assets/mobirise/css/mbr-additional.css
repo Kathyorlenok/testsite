@@ -2454,7 +2454,7 @@ body {
 .cid-rBdbv4Tr8W {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #232323;
 }
 .cid-rBdbv4Tr8W P {
   color: #767676;
@@ -2462,7 +2462,7 @@ body {
 .cid-rBdbv4Tr8W .mbr-text,
 .cid-rBdbv4Tr8W .mbr-section-btn {
   text-align: center;
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rBddZVdo1g {
   padding-top: 60px;
@@ -3343,7 +3343,7 @@ body {
 .cid-rBdsQaSzv9 {
   padding-top: 105px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #232323;
 }
 .cid-rBdsQaSzv9 P {
   color: #767676;
@@ -3351,10 +3351,10 @@ body {
 .cid-rBdsQaSzv9 .mbr-text,
 .cid-rBdsQaSzv9 .mbr-section-btn {
   text-align: center;
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rBdhQhhkXm {
-  padding-top: 135px;
+  padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -3379,7 +3379,7 @@ body {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #efefef;
+  background: #232323;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
@@ -3388,7 +3388,7 @@ body {
   background: transparent !important;
 }
 .cid-rBdhQhhkXm .mbr-gallery-item > div:hover:before {
-  opacity: 1 !important;
+  opacity: 0.7 !important;
 }
 .cid-rBdhQhhkXm .mbr-gallery-title {
   font-size: .9em;
@@ -3408,13 +3408,13 @@ body {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #efefef !important;
-  opacity: 1;
+  background: #232323 !important;
+  opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
 .cid-rBdhQhhkXm .mbr-gallery-item > div > span {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-rBdsYmMEit .navbar {
   padding: .5rem 0;
